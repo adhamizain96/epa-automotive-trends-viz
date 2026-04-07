@@ -77,4 +77,4 @@ Pre-rendered exports of the dashboard live under `outputs/`:
 
 ## Author
 
-Zainulabidin Adhami
+**Zainulabidin Adhami**
