@@ -36,7 +36,7 @@ epa-automotive-trends-viz/
 │   │   └── Interactive Visualization of EPA Data.html
 │   └── pdf/
 │       └── Interactive Visualization of EPA Data.pdf
-├── wesco-bi-case-study/          # Companion Power BI case study (see below)
+├── case-study/                  # Companion Power BI case study (see below)
 │   ├── case-study.pbix
 │   ├── background-images/
 │   ├── reference-datasets/
@@ -76,7 +76,7 @@ Pre-rendered exports of the dashboard live under `outputs/`:
 
 ## Companion Power BI case study
 
-The `wesco-bi-case-study/` folder contains a Power BI re-analysis of the same EPA data, built as a standalone BI case study. It covers the same questions as the Altair notebook but uses Power BI's visual and interaction model instead of Vega-Lite.
+The `case-study/` folder contains a Power BI re-analysis of the same EPA data, built as a standalone BI case study. It covers the same questions as the Altair notebook but uses Power BI's visual and interaction model instead of Vega-Lite.
 
 **Report pages (`case-study.pbix`):**
 
